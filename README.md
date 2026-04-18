@@ -25,3 +25,22 @@ What makes an agentic system?
 3. Observe: The agent observes the outcomes of its actions and gathers new information from the environment.
 4. Reflect: The agent reflects on the outcomes and updates its knowledge and strategies based on the new information.
 5. Repeat: The agent continues to iterate through the loop, refining its plans and actions over time to achieve its goals more effectively.
+
+## Coding Excercise:: LLM Interaction
+
+# LLM Providers
+- OpenAI
+- Anthropic
+- Google Gemini - Gemma (Free)
+- Meta LLaMA
+- Alibaba - Qwen
+
+To maximize profits and privacy concerns what do you advise?
+
+LLM_SERVICE_URL="http://localhost:8000"
+
+Access ai.dev 
+-get api key
+-create api key
+
+To use the history, you must use the role of assistant
